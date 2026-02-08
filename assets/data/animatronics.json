@@ -6,7 +6,7 @@
     "bouwjaar": 1983,
     "is_actief": true,
     "laatste_onderhoud": "2023-10-15",
-    "image_url": "../images/Freddy_Fazbear.webp",
+    "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/main/assets/images/Freddy_Fazbear.webp",
     "type": "Classic",
     "kenmerken": ["Zang", "Microfoon", "Lach"],
     "locatie": {
@@ -23,7 +23,7 @@
     "bouwjaar": 1983,
     "is_actief": true,
     "laatste_onderhoud": "2023-11-02",
-    "image_url": "../images/Bonnie_The_Bunny.webp",
+    "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/7d7156784c46f5f78a4463b5ffe085ec78835c82/assets/images/Bonnie_The_Bunny.webp",
     "type": "Classic",
     "kenmerken": ["Gitaar", "Snelheid", "Linkerdeur"],
     "locatie": {
@@ -40,7 +40,7 @@
     "bouwjaar": 1983,
     "is_actief": true,
     "laatste_onderhoud": "2023-11-05",
-    "image_url": "../images/Chica_The_Chicken.webp",
+    "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/main/assets/images/Chica_The_Chicken.webp",
     "type": "Classic",
     "kenmerken": ["Cupcake", "Keuken", "Rechterdeur"],
     "locatie": {
@@ -57,7 +57,7 @@
     "bouwjaar": 1985,
     "is_actief": false,
     "laatste_onderhoud": "2019-05-20",
-    "image_url": "https://example.com/images/../images/Foxy_The_Pirate_Fox.webp",
+    "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/main/assets/images/Foxy_The_Pirate_Fox.webp",
     "type": "Withered",
     "kenmerken": ["Haak", "Ooglapje", "Sprinten"],
     "locatie": {
@@ -74,7 +74,7 @@
     "bouwjaar": 1987,
     "is_actief": true,
     "laatste_onderhoud": "2024-01-10",
-    "image_url": "../images/Toy_Freddy.webp",
+    "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/main/assets/images/Toy_Freddy.webp",
     "type": "Toy",
     "kenmerken": ["Gamen", "Blush", "Plastic"],
     "locatie": {
@@ -91,7 +91,7 @@
     "bouwjaar": 1987,
     "is_actief": true,
     "laatste_onderhoud": "2023-12-12",
-    "image_url": "../images/The_Puppet.webp",
+    "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/main/assets/images/The_Puppet.webp",
     "type": "Special",
     "kenmerken": ["Muziekdoos", "Masker", "Zweven"],
     "locatie": {
@@ -108,7 +108,7 @@
     "bouwjaar": 1983,
     "is_actief": true,
     "laatste_onderhoud": "1993-01-01",
-    "image_url": "../images/Springtrap.webp",
+    "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/main/assets/images/Springtrap.webp",
     "type": "Withered",
     "kenmerken": ["Ventilatie", "Menselijke resten", "Agonize"],
     "locatie": {
@@ -125,7 +125,7 @@
     "bouwjaar": 2016,
     "is_actief": true,
     "laatste_onderhoud": "2024-02-01",
-    "image_url": "../images/Circus_Baby.webp",
+    "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/main/assets/images/Circus_Baby.webp",
     "type": "Funtime",
     "kenmerken": ["Ijsmachine", "Grijparm", "Zang"],
     "locatie": {
@@ -142,7 +142,7 @@
     "bouwjaar": 2021,
     "is_actief": true,
     "laatste_onderhoud": "2024-02-07",
-    "image_url": "../images/Montgomery_Gator.webp",
+    "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/main/assets/images/Montgomery_Gator.webp",
     "type": "Glamrock",
     "kenmerken": ["Basgitaar", "Golf", "Klauwen"],
     "locatie": {
@@ -159,7 +159,7 @@
     "bouwjaar": 2021,
     "is_actief": true,
     "laatste_onderhoud": "2024-02-05",
-    "image_url": "../images/Roxanne_Wolf.webp",
+    "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/main/assets/images/Roxanne_Wolf.webp",
     "type": "Glamrock",
     "kenmerken": ["Racen", "Superzicht", "Keytar"],
     "locatie": {
