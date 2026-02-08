@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "naam": "Freddy Fazbear",
+    "beschrijving": "De iconische bruine beer en leider van de band. Hij wordt actiever naarmate de week vordert en verstopt zich graag in de schaduwen.",
+    "bouwjaar": 1983,
+    "is_actief": true,
+    "laatste_onderhoud": "2023-10-15",
+    "image_url": "https://example.com/images/freddy.jpg",
+    "type": "Classic",
+    "kenmerken": ["Zang", "Microfoon", "Lach"],
+    "locatie": {
+      "locatie_id": 101,
+      "naam": "Freddy Fazbear's Pizza",
+      "stad": "Hurricane, Utah",
+      "veiligheidsniveau": 2
+    }
+  },
+  {
+    "id": 2,
+    "naam": "Bonnie the Bunny",
+    "beschrijving": "De paarse konijn-gitarist die meestal als eerste de Show Stage verlaat. Hij valt altijd aan vanaf de linkerkant.",
+    "bouwjaar": 1983,
+    "is_actief": true,
+    "laatste_onderhoud": "2023-11-02",
+    "image_url": "https://example.com/images/bonnie.jpg",
+    "type": "Classic",
+    "kenmerken": ["Gitaar", "Snelheid", "Linkerdeur"],
+    "locatie": {
+      "locatie_id": 101,
+      "naam": "Freddy Fazbear's Pizza",
+      "stad": "Hurricane, Utah",
+      "veiligheidsniveau": 2
+    }
+  },
+  {
+    "id": 3,
+    "naam": "Chica the Chicken",
+    "beschrijving": "De back-up zangeres die dol is op eten. Ze is herkenbaar aan haar 'Let's Eat!!!' slabbetje en haar metgezel Cupcake.",
+    "bouwjaar": 1983,
+    "is_actief": true,
+    "laatste_onderhoud": "2023-11-05",
+    "image_url": "https://example.com/images/chica.jpg",
+    "type": "Classic",
+    "kenmerken": ["Cupcake", "Keuken", "Rechterdeur"],
+    "locatie": {
+      "locatie_id": 101,
+      "naam": "Freddy Fazbear's Pizza",
+      "stad": "Hurricane, Utah",
+      "veiligheidsniveau": 2
+    }
+  },
+  {
+    "id": 4,
+    "naam": "Foxy the Pirate Fox",
+    "beschrijving": "Een kapotte animatronic die zich schuilhoudt in Pirate Cove. Hij staat bekend om zijn sprint door de gang.",
+    "bouwjaar": 1985,
+    "is_actief": false,
+    "laatste_onderhoud": "2019-05-20",
+    "image_url": "https://example.com/images/foxy.jpg",
+    "type": "Withered",
+    "kenmerken": ["Haak", "Ooglapje", "Sprinten"],
+    "locatie": {
+      "locatie_id": 101,
+      "naam": "Freddy Fazbear's Pizza",
+      "stad": "Hurricane, Utah",
+      "veiligheidsniveau": 2
+    }
+  },
+  {
+    "id": 5,
+    "naam": "Toy Freddy",
+    "beschrijving": "De glimmende, nieuwe versie van Freddy. Hij brengt zijn tijd graag door met het spelen van videogames in de Game Area.",
+    "bouwjaar": 1987,
+    "is_actief": true,
+    "laatste_onderhoud": "2024-01-10",
+    "image_url": "https://example.com/images/toy-freddy.jpg",
+    "type": "Toy",
+    "kenmerken": ["Gamen", "Blush", "Plastic"],
+    "locatie": {
+      "locatie_id": 102,
+      "naam": "Fazbear's Fright",
+      "stad": "Local Fairgrounds",
+      "veiligheidsniveau": 1
+    }
+  },
+  {
+    "id": 6,
+    "naam": "The Puppet",
+    "beschrijving": "Een mysterieuze pop die in een muziekdoos woont. Als de muziek stopt, is er geen ontsnappen meer aan.",
+    "bouwjaar": 1987,
+    "is_actief": true,
+    "laatste_onderhoud": "2023-12-12",
+    "image_url": "https://example.com/images/puppet.jpg",
+    "type": "Special",
+    "kenmerken": ["Muziekdoos", "Masker", "Zweven"],
+    "locatie": {
+      "locatie_id": 102,
+      "naam": "Fazbear's Fright",
+      "stad": "Local Fairgrounds",
+      "veiligheidsniveau": 1
+    }
+  },
+  {
+    "id": 7,
+    "naam": "Springtrap",
+    "beschrijving": "Een zwaar beschadigd konijnenpak waarin het overschot van William Afton vastzit. Zeer gevaarlijk en onvoorspelbaar.",
+    "bouwjaar": 1983,
+    "is_actief": true,
+    "laatste_onderhoud": "1993-01-01",
+    "image_url": "https://example.com/images/springtrap.jpg",
+    "type": "Withered",
+    "kenmerken": ["Ventilatie", "Menselijke resten", "Agonize"],
+    "locatie": {
+      "locatie_id": 102,
+      "naam": "Fazbear's Fright",
+      "stad": "Local Fairgrounds",
+      "veiligheidsniveau": 1
+    }
+  },
+  {
+    "id": 8,
+    "naam": "Circus Baby",
+    "beschrijving": "De ster van Circus Baby's Pizza World. Ze is ontworpen om ijs te maken en kinderen te entertainen (en te vangen).",
+    "bouwjaar": 2016,
+    "is_actief": true,
+    "laatste_onderhoud": "2024-02-01",
+    "image_url": "https://example.com/images/baby.jpg",
+    "type": "Funtime",
+    "kenmerken": ["Ijsmachine", "Grijparm", "Zang"],
+    "locatie": {
+      "locatie_id": 103,
+      "naam": "Circus Baby's Entertainment and Rental",
+      "stad": "Ondergronds",
+      "veiligheidsniveau": 5
+    }
+  },
+  {
+    "id": 9,
+    "naam": "Montgomery Gator",
+    "beschrijving": "De agressieve bassist van de Glamrock band. Hij heeft een voorliefde voor vernietiging en zonnebrillen.",
+    "bouwjaar": 2021,
+    "is_actief": true,
+    "laatste_onderhoud": "2024-02-07",
+    "image_url": "https://example.com/images/monty.jpg",
+    "type": "Glamrock",
+    "kenmerken": ["Basgitaar", "Golf", "Klauwen"],
+    "locatie": {
+      "locatie_id": 104,
+      "naam": "Freddy Fazbear's Mega Pizzaplex",
+      "stad": "Stadscentrum",
+      "veiligheidsniveau": 4
+    }
+  },
+  {
+    "id": 10,
+    "naam": "Roxanne Wolf",
+    "beschrijving": "De competitieve race-wolf met een zeer hoog ego (en diepe onzekerheden). Ze heeft verbeterde ogen om door muren te kijken.",
+    "bouwjaar": 2021,
+    "is_actief": true,
+    "laatste_onderhoud": "2024-02-05",
+    "image_url": "https://example.com/images/roxy.jpg",
+    "type": "Glamrock",
+    "kenmerken": ["Racen", "Superzicht", "Keytar"],
+    "locatie": {
+      "locatie_id": 104,
+      "naam": "Freddy Fazbear's Mega Pizzaplex",
+      "stad": "Stadscentrum",
+      "veiligheidsniveau": 4
+    }
+  }
+]
