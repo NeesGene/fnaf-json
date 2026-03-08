@@ -1,0 +1,26 @@
+[
+  {
+    "locatie_id": 101,
+    "naam": "Freddy Fazbear's Pizza",
+    "stad": "Hurricane, Utah",
+    "veiligheidsniveau": 2
+  },
+  {
+    "locatie_id": 102,
+    "naam": "Fazbear's Fright",
+    "stad": "Local Fairgrounds",
+    "veiligheidsniveau": 1
+  },
+  {
+    "locatie_id": 103,
+    "naam": "Circus Baby's Entertainment and Rental",
+    "stad": "Ondergronds",
+    "veiligheidsniveau": 5
+  },
+  {
+    "locatie_id": 104,
+    "naam": "Freddy Fazbear's Mega Pizzaplex",
+    "stad": "Stadscentrum",
+    "veiligheidsniveau": 4
+  }
+]
