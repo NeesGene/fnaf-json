@@ -9,12 +9,7 @@
     "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/main/assets/images/Freddy_Fazbear.webp",
     "type": "Classic",
     "kenmerken": ["Zang", "Microfoon", "Lach"],
-    "locatie": {
-      "locatie_id": 101,
-      "naam": "Freddy Fazbear's Pizza",
-      "stad": "Hurricane, Utah",
-      "veiligheidsniveau": 2
-    }
+    "locatie_id": 101
   },
   {
     "id": 2,
@@ -26,12 +21,7 @@
     "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/7d7156784c46f5f78a4463b5ffe085ec78835c82/assets/images/Bonnie_The_Bunny.webp",
     "type": "Classic",
     "kenmerken": ["Gitaar", "Snelheid", "Linkerdeur"],
-    "locatie": {
-      "locatie_id": 101,
-      "naam": "Freddy Fazbear's Pizza",
-      "stad": "Hurricane, Utah",
-      "veiligheidsniveau": 2
-    }
+    "locatie_id": 101
   },
   {
     "id": 3,
@@ -43,12 +33,7 @@
     "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/main/assets/images/Chica_The_Chicken.webp",
     "type": "Classic",
     "kenmerken": ["Cupcake", "Keuken", "Rechterdeur"],
-    "locatie": {
-      "locatie_id": 101,
-      "naam": "Freddy Fazbear's Pizza",
-      "stad": "Hurricane, Utah",
-      "veiligheidsniveau": 2
-    }
+    "locatie_id": 101
   },
   {
     "id": 4,
@@ -60,12 +45,7 @@
     "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/main/assets/images/Foxy_The_Pirate_Fox.webp",
     "type": "Withered",
     "kenmerken": ["Haak", "Ooglapje", "Sprinten"],
-    "locatie": {
-      "locatie_id": 101,
-      "naam": "Freddy Fazbear's Pizza",
-      "stad": "Hurricane, Utah",
-      "veiligheidsniveau": 2
-    }
+    "locatie_id": 101
   },
   {
     "id": 5,
@@ -77,12 +57,7 @@
     "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/main/assets/images/Toy_Freddy.webp",
     "type": "Toy",
     "kenmerken": ["Gamen", "Blush", "Plastic"],
-    "locatie": {
-      "locatie_id": 102,
-      "naam": "Fazbear's Fright",
-      "stad": "Local Fairgrounds",
-      "veiligheidsniveau": 1
-    }
+    "locatie_id": 102
   },
   {
     "id": 6,
@@ -94,12 +69,7 @@
     "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/main/assets/images/The_Puppet.webp",
     "type": "Special",
     "kenmerken": ["Muziekdoos", "Masker", "Zweven"],
-    "locatie": {
-      "locatie_id": 102,
-      "naam": "Fazbear's Fright",
-      "stad": "Local Fairgrounds",
-      "veiligheidsniveau": 1
-    }
+    "locatie_id": 102
   },
   {
     "id": 7,
@@ -111,12 +81,7 @@
     "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/main/assets/images/Springtrap.webp",
     "type": "Withered",
     "kenmerken": ["Ventilatie", "Menselijke resten", "Agonize"],
-    "locatie": {
-      "locatie_id": 102,
-      "naam": "Fazbear's Fright",
-      "stad": "Local Fairgrounds",
-      "veiligheidsniveau": 1
-    }
+    "locatie_id": 102
   },
   {
     "id": 8,
@@ -128,12 +93,7 @@
     "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/main/assets/images/Circus_Baby.webp",
     "type": "Funtime",
     "kenmerken": ["Ijsmachine", "Grijparm", "Zang"],
-    "locatie": {
-      "locatie_id": 103,
-      "naam": "Circus Baby's Entertainment and Rental",
-      "stad": "Ondergronds",
-      "veiligheidsniveau": 5
-    }
+    "locatie_id": 103
   },
   {
     "id": 9,
@@ -145,12 +105,7 @@
     "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/main/assets/images/Montgomery_Gator.webp",
     "type": "Glamrock",
     "kenmerken": ["Basgitaar", "Golf", "Klauwen"],
-    "locatie": {
-      "locatie_id": 104,
-      "naam": "Freddy Fazbear's Mega Pizzaplex",
-      "stad": "Stadscentrum",
-      "veiligheidsniveau": 4
-    }
+    "locatie_id": 104
   },
   {
     "id": 10,
@@ -162,11 +117,6 @@
     "image_url": "https://raw.githubusercontent.com/NeesGene/fnaf-json/main/assets/images/Roxanne_Wolf.webp",
     "type": "Glamrock",
     "kenmerken": ["Racen", "Superzicht", "Keytar"],
-    "locatie": {
-      "locatie_id": 104,
-      "naam": "Freddy Fazbear's Mega Pizzaplex",
-      "stad": "Stadscentrum",
-      "veiligheidsniveau": 4
-    }
+    "locatie_id": 104
   }
 ]
